@@ -52,8 +52,7 @@ export class RegistroParqueadero2 extends React.Component{
                                 <InputLabel htmlFor="email">Direccion</InputLabel>
                                 <Input id="email" name="email" autoComplete="direccion" autoFocus />
                             </FormControl>
-                            <br />
-							
+
 							<FormControl margin="normal" required>
 								<div >
 									<Button type="submit" variant="raised" color="primary" className="submit" href="parqueadero">
